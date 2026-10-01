@@ -1,0 +1,11 @@
+C:\Users\diana\source\repos\PI32_1_Saakyan_Neyro\PI32_1_Saakyan_Neyro\obj\Debug\PI32_1_Saakyan_Neyro.csproj.AssemblyReference.cache
+C:\Users\diana\source\repos\PI32_1_Saakyan_Neyro\PI32_1_Saakyan_Neyro\obj\Debug\PI32_1_Saakyan_Neyro.FormMain.resources
+C:\Users\diana\source\repos\PI32_1_Saakyan_Neyro\PI32_1_Saakyan_Neyro\obj\Debug\PI32_1_Saakyan_Neyro.Properties.Resources.resources
+C:\Users\diana\source\repos\PI32_1_Saakyan_Neyro\PI32_1_Saakyan_Neyro\obj\Debug\PI32_1_Saakyan_Neyro.csproj.GenerateResource.cache
+C:\Users\diana\source\repos\PI32_1_Saakyan_Neyro\PI32_1_Saakyan_Neyro\obj\Debug\PI32_1_Saakyan_Neyro.csproj.CoreCompileInputs.cache
+C:\Users\diana\source\repos\PI32_1_Saakyan_Neyro\PI32_1_Saakyan_Neyro\bin\Debug\PI32_1_Saakyan_Neyro.exe.config
+C:\Users\diana\source\repos\PI32_1_Saakyan_Neyro\PI32_1_Saakyan_Neyro\bin\Debug\PI32_1_Saakyan_Neyro.exe
+C:\Users\diana\source\repos\PI32_1_Saakyan_Neyro\PI32_1_Saakyan_Neyro\bin\Debug\PI32_1_Saakyan_Neyro.pdb
+C:\Users\diana\source\repos\PI32_1_Saakyan_Neyro\PI32_1_Saakyan_Neyro\obj\Debug\PI32_1_Saakyan_Neyro.exe
+C:\Users\diana\source\repos\PI32_1_Saakyan_Neyro\PI32_1_Saakyan_Neyro\obj\Debug\PI32_1_Saakyan_Neyro.pdb
+C:\Users\diana\source\repos\PI32_1_Saakyan_Neyro\PI32_1_Saakyan_Neyro\obj\Debug\PI32_1_Saakyan_Neyro.exe.config
